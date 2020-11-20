@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 3508480082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c631538fed4ea72bd711177cb5e453e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb8ccdb1b158fc88cdce48bf2fd0e45d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/Cube_1_3.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_thumbs_up_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_3qtr_fist_anim.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WedgeFloor_09.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/Cube_1_7.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/Tunnel_01.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WedgeFloor_06.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_relax_3qtr_fist_anim.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WedgeFloor_04.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_pinch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/Locomotion/Models/DestinationIndicatorSimple.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_ping_pong_ball_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_index_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WorldGeo.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/BridgePlatform01.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/GroundSection02.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WedgeCeiling_15.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/Cube_1x4.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/GroundSection01.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/Cube_1_8.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_hold_generic_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WedgeFloor_08.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WedgeCeiling_10.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_fist_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_pinch_anim.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/Cube_1_10.fbx
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Models/WallsAndDoors1.fbx
+Dependencies:
+- C:/Users/draka/Documents/Skole/Universitet/KU/3. Semester/Virtual Reality/Programs/TestProject1/OVRAssetBundles/OVRMasterBundle/asset_mat0

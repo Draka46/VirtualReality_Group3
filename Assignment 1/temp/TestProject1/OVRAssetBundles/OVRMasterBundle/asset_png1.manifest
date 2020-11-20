@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1544690666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0265b998afe460e0c402b3c117f91fbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_02/Skybox02_Front+Z.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/concrete_01_msm.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/separator.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/dialog.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/radio_off.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/metal_01_dif.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/radio_on.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/floor_tile_01_dif.png
+Dependencies: []

@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3205790621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a9abe389f375c81ae5b462bedaa3ac8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/TriPlanarWorld.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_02/Skybox02.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_grid_01_dark.mat
+- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/TeleportLaser.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_floor_wood_02.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_cinderblock_01.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_grid_01_light.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_concrete_01.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_floor_tile_01.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/ColumnGlow.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_metal_01.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_brick_01.mat
+- Assets/Oculus/SampleFramework/Core/Locomotion/Materials/lambert1.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_floor_wood_01.mat
+Dependencies:
+- C:/Users/draka/Documents/Skole/Universitet/KU/3. Semester/Virtual Reality/Programs/TestProject1/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/draka/Documents/Skole/Universitet/KU/3. Semester/Virtual Reality/Programs/TestProject1/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/draka/Documents/Skole/Universitet/KU/3. Semester/Virtual Reality/Programs/TestProject1/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/draka/Documents/Skole/Universitet/KU/3. Semester/Virtual Reality/Programs/TestProject1/OVRAssetBundles/OVRMasterBundle/asset_tga0
